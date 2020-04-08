@@ -1,0 +1,13 @@
+17:45:29.724 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+17:45:29.745 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+17:45:29.746 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+17:45:29.746 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+17:45:29.931 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+17:45:29.932 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 4623 ms
+17:45:30.267 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+17:45:30.559 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+17:45:30.596 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+17:45:30.600 [main] ERROR c.P.H.HelloLoggingApplication - Message logged at Error Level
+17:45:30.600 [main] ERROR c.P.H.HelloLoggingApplication - Message logged at Error Level
+17:45:30.600 [main] WARN  c.P.H.HelloLoggingApplication - Message logged at warning level
+17:45:30.600 [main] WARN  c.P.H.HelloLoggingApplication - Message logged at warning level
